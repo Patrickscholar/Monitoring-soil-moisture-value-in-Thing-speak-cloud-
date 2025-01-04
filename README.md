@@ -1,6 +1,6 @@
 ### NAME: V PATRICK ALEX EMMANUEL
 ### REG NO: 24900019
-# EXPERIMENT 5 - Monitoring-soil-moisture-value-in-Thing-speak-cloud
+# EXPERIMENT 5 - Monitoring soil moisture value in Thingspeak cloud
 
 # AIM:
 To monitor the soil moisture value in the Thing speak cloud using soil moisture sensor and ESP32 controller.
